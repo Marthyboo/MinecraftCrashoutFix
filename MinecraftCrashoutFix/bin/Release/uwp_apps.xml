@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfUwpAppInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <UwpAppInfo>
-    <ProcessName>Minecraft.Windows</ProcessName>
-    <PackageFamilyName>Microsoft.MinecraftUWP_8wekyb3d8bbwe</PackageFamilyName>
-  </UwpAppInfo>
-</ArrayOfUwpAppInfo>
