@@ -240,7 +240,7 @@ class Program
             serializer.Serialize(writer, storedApps);
         }
     }
-
+// The createstartuptask runs when booting up your computer, making you not have to redo the steps you previously did.
     static void CreateStartupTask()
     {
         string startupFolder = Environment.GetFolderPath(Environment.SpecialFolder.Startup);
