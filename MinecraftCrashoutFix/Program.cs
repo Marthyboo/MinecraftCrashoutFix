@@ -80,7 +80,7 @@ class Program
             EnableDebuggingForApp(selectedApp);
         }
     }
-
+// this is the filter, any packages starting with M will appear on the list, you can "M"" to something else, or remove it entirely. but the package list tends to get messy.
     static Dictionary<string, string> GetRunningUwpApps()
     {
         var uwpApps = new Dictionary<string, string>();
